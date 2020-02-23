@@ -4,7 +4,7 @@ import styles from './GeneratorButton.module.scss';
 export function GeneratorButton() {
   const CHORDS = ['A', 'B', 'C', 'D', 'E', 'F', 'G'];
 
-  const [chord, setChord] = useState('Click me');
+  const [chord, setChord] = useState('🎵');
 
   function handleClick() {
     const randomChord = CHORDS[Math.floor(Math.random() * CHORDS.length)];

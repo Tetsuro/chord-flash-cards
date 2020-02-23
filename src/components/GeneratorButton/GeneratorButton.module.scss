@@ -1,11 +1,19 @@
+@import '../../styles/shared';
+
+$font-size: 9rem;
+
 .Button {
   border: none;
-  font-size: 10rem;
+  font-size: $font-size;
   width: 100%;
   border-radius: 5px;
+  background: #2b6cb0;
+  color: #fff;
+  padding: $spacing 0;
+  font-weight: bold;
 }
 
 .Key,
 .Seventh {
-  font-size: 5rem;
+  font-size: $font-size / 2;
 }
