@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0817675a-e290-45dd-8a97-4ca980845689/deploy-status)](https://app.netlify.com/sites/chord-flash-cards/deploys)
+
 # Chords Flash Cards
 
 I wrote this simple app to practice playing chords on the piano.
