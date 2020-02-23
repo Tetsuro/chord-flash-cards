@@ -1,0 +1,19 @@
+@import './styles/shared';
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  background: #02162d;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0 $spacing * 2;
+}
+
+.Container {
+  max-width: 800px;
+  margin: 0 auto;
+}
