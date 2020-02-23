@@ -1,1 +1,1 @@
-export { GeneratorButton } from './GeneratorButton';
+export {GeneratorButton} from './GeneratorButton';

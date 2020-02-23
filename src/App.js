@@ -1,11 +1,11 @@
 import React from 'react';
-import './App.css';
+import styles from './App.module.scss';
 
-import { GeneratorButton } from './components';
+import {GeneratorButton} from './components';
 
 function App() {
   return (
-    <div className='App'>
+    <div className={styles.Container}>
       <GeneratorButton />
     </div>
   );
