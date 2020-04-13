@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Chord Flash Cards",
+  "name": "Flash cards for practicing piano chords",
   "icons": [
     {
       "src": "favicon.ico",
